@@ -1,2 +1,0 @@
-# ReactClipboardTool
-Created with CodeSandbox
